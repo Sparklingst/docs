@@ -1,0 +1,6 @@
+site_name: 粼光-优雅有质量官方文档
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
