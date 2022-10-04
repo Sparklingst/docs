@@ -31,6 +31,4 @@ extra:
   generator: false
 repo_url: https://github.com/xiaoioi/Sparkling-Store-doc
 plugins:
-  - git-committers:
-      repository: xiaoioi/Sparkling-Store-doc
-      branch: master
+  - git-authors
