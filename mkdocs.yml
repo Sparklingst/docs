@@ -31,4 +31,6 @@ extra:
   generator: false
 repo_url: https://github.com/xiaoioi/Sparkling-Store-doc
 plugins:
-  - git-authors
+  - git-committers:
+      repository: squidfunk/mkdocs-material
+      branch: main
