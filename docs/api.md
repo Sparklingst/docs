@@ -1,6 +1,15 @@
 ## 应用上传 API
 
-GET `https://app.bwcxlg.top/up/api.php?name=作者名&pwd=联系方式&m=软件名&bm=软件包名&js=介绍&lj=获取链接&qx=...&logo=logo&rj=+&submit_btn=submit`
+GET `https://app.bwcxlg.top/up/api.php`
+| 参数名称 | 请求方式	 | 参数说明 |
+| :-----| ----: | :----: |
+| name | GET | 软件开发者-姓名/昵称 |
+| pwd | GET | 联系方式 |
+| m | GET | 软件名 |
+| bm | GET | 软件包名 |
+| js | GET | 软件介绍 |
+| lj | GET | 获取链接 |
+| logo | GET | logo |
 
 ## 调用粼光的URL Scheme
 *仅支持 Yue 2版 2.3.0 版本及以上版本
