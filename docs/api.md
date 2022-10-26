@@ -1,6 +1,7 @@
 ## 应用上传 API
 
-GET `https://app.bwcxlg.top/up/api.php`
+https://app.bwcxlg.top/up/api.php
+
 | 参数名称 | 请求方式	 | 参数说明 |
 | :-----| ----: | :----: |
 | name | GET | 软件开发者-姓名/昵称 |
